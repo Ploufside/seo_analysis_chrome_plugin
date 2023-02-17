@@ -10,7 +10,7 @@ Plugin pour ouvrir de multiples outils d'analyse SEO depuis l'onglet actif
 
 ![mode developpeur](https://www.studioclick.fr/img/mode-developpeur.png)
 
-3 - Cliquez sur Chargez l'extension non empaquetée.
+3 - Cliquer sur Charger l'extension non empaquetée.
 
 ![charger](https://www.studioclick.fr/img/charger-extension.png)
 
