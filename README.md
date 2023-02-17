@@ -14,7 +14,7 @@ Plugin pour ouvrir de multiples outils d'analyse SEO depuis l'onglet actif
 
 ![charger](https://www.studioclick.fr/img/charger-extension.png)
 
-4 - Recherchez et sélectionnez le dossier de l'application ou de l'extension.
+4 - Recherchez et sélectionnez le dossier de l'extension.
 
 # Troubleshooting
 
